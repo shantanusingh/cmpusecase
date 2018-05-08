@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>af05474edbbd170079132f0e0b961949</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="basic_auth_credentials">
+    <basic_auth_credentials action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_to>all</applies_to>
+        <authentication_key/>
+        <authentication_protocol/>
+        <classification>basic_auth</classification>
+        <mid_list/>
+        <name>azureoscreds</name>
+        <order>100</order>
+        <password>XkIqcDQb9oJdEFva5BcBDg==</password>
+        <privacy_key/>
+        <privacy_protocol/>
+        <ssh_passphrase/>
+        <ssh_private_key/>
+        <sys_class_name>basic_auth_credentials</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-02 17:43:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>af05474edbbd170079132f0e0b961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-02 17:43:56</sys_updated_on>
+        <tag/>
+        <type>basic_auth</type>
+        <user_name>snow</user_name>
+    </basic_auth_credentials>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-02 17:52:44</sys_created_on>
+        <sys_id>9c27c7cedbbd170079132f0e0b961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>azureoscreds</sys_name>
+        <sys_package display_value="cmpusecases" source="x_snc_cmpusecases">01d3fe21db79d30079132f0e0b9619a4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cmpusecases">01d3fe21db79d30079132f0e0b9619a4</sys_scope>
+        <sys_update_name>sys_metadata_link_9c27c7cedbbd170079132f0e0b961917</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-02 17:52:44</sys_updated_on>
+        <tablename>discovery_credentials</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>cmpusecases</name>
+        <order/>
+        <roles>x_snc_cmpusecases.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>shantanu.singh@snc</sys_created_by>
+        <sys_created_on>2018-05-01 03:11:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>99d3b6a1db79d30079132f0e0b961961</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>cmpusecases</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="cmpusecases" source="x_snc_cmpusecases">01d3fe21db79d30079132f0e0b9619a4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cmpusecases">01d3fe21db79d30079132f0e0b9619a4</sys_scope>
+        <sys_update_name>sys_app_application_99d3b6a1db79d30079132f0e0b961961</sys_update_name>
+        <sys_updated_by>shantanu.singh@snc</sys_updated_by>
+        <sys_updated_on>2018-05-01 03:11:28</sys_updated_on>
+        <title>cmpusecases</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
